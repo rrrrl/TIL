@@ -1,4 +1,4 @@
-###참고
+### 참고
 
 * Andrew Ng's ML class
   - https://class.coursera.org/ml-0003/lecture
