@@ -1,11 +1,11 @@
-###Acknowledgement
+###참고
 
 * Andrew Ng's ML class
   - https://class.coursera.org/ml-0003/lecture
   - http://www.holehouse.org/mlclass/ (note)
 
 * Convolutional Neural Networks for Visual Recognition.
-  - http://cs23ln.github.io/
+  - http://cs231n.github.io/
 
 * Tensorflow
   - https://www.tensorflow.org
