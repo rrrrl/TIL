@@ -1,6 +1,6 @@
-#Lecture 1 : Machine Learning Basics
+# Lecture 1 : Machine Learning Basics
 
-##Machine Learaning 머신러닝이란
+## Machine Learaning 머신러닝이란
 - Limitations of explicit programming
   - Spam filter : many rules
   - Automatic driving 자동 주행 : too many rules
@@ -9,7 +9,7 @@
                       Arthur Samuel(1959)
 
 
-##Supervised / Unsupervised learning 학습방법에 따라 나뉨
+## Supervised / Unsupervised learning 학습방법에 따라 나뉨
 - Supervised learning:
   - learning with labeled examples - tranining set 예제 레이블을 이용하여 학습
 - Unsupervised learning : un-labeled data
@@ -17,7 +17,7 @@
   - Word clustering
 
 
-##Supervised learning
+## Supervised learning
 - Most common problem type in ML
   - Image labeling : learning from tagged images
   - Email spam filter : learning from labeled (spam or ham) email
